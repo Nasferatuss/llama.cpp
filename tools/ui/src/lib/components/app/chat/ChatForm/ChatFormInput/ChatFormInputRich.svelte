@@ -787,7 +787,7 @@
 	}
 </script>
 
-<div class="flex-1 {className}">
+<div class="flex-1 {className} mb-0.5">
 	<div
 		bind:this={rootElement}
 		contenteditable={!disabled}
